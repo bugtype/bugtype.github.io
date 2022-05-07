@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>css on Bugtype&#39;s Devlog</title>
+    <link>https://bugtype.github.io/tags/css/</link>
+    <description>Recent content in css on Bugtype&#39;s Devlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 May 2022 10:17:00 +0900</lastBuildDate><atom:link href="https://bugtype.github.io/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>css image-render pixlated</title>
+      <link>https://bugtype.github.io/post/css/image-render/</link>
+      <pubDate>Sat, 07 May 2022 10:17:00 +0900</pubDate>
+      
+      <guid>https://bugtype.github.io/post/css/image-render/</guid>
+      <description>서론 image: auto
+image pixelated
+현재 회사에서는 픽셀아트를 이용해서 메타버스를 개발을 하고 있다. 픽셀 이미지를 확대하거나 축소하면 흐릿해지는 문제가 발생하였다.
+문제 내부적은 이미지 사이즈를 조절하면 브라우저 내에 특정 알고리즘으로 인해 loss가 발생해서 생기는 현상이다. 이것은 당연한 증상이다. 현실은 픽셀아트처럼 사각형 형태의 이미지가 아니며, 곡선처럼 다듬어져야 하기에 그런 내부적으로 알고리즘이 있는 것이다.
+해결방법 css에서 image-rendering 옵션을 주면 된다. 픽셀아트는 아래옵션을 기본적으로 해줘야 원하는 이미지를 볼 수 있을 것이다.
+https://developer.mozilla.org/ko/docs/Web/CSS/image-rendering
+ archives.scssarchives.scss     1</description>
+    </item>
+    
+  </channel>
+</rss>

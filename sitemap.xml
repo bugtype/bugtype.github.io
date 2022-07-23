@@ -2,16 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://bugtype.github.io/</loc>
+    <lastmod>2022-07-23T11:30:30+09:00</lastmod>
+  </url><url>
+    <loc>https://bugtype.github.io/categories/</loc>
+    <lastmod>2022-07-23T11:30:30+09:00</lastmod>
+  </url><url>
+    <loc>https://bugtype.github.io/post/</loc>
+    <lastmod>2022-07-23T11:30:30+09:00</lastmod>
+  </url><url>
+    <loc>https://bugtype.github.io/post/terminal/sed-%EC%A0%95%EB%B3%B5%ED%95%98%EA%B8%B0/</loc>
+    <lastmod>2022-07-23T11:30:30+09:00</lastmod>
+  </url><url>
+    <loc>https://bugtype.github.io/categories/terminal/</loc>
+    <lastmod>2022-07-23T11:30:30+09:00</lastmod>
+  </url><url>
+    <loc>https://bugtype.github.io/categories/develop/</loc>
+    <lastmod>2022-07-23T09:20:30+09:00</lastmod>
+  </url><url>
+    <loc>https://bugtype.github.io/tags/reverseengineering/</loc>
+    <lastmod>2022-07-23T09:20:30+09:00</lastmod>
+  </url><url>
+    <loc>https://bugtype.github.io/categories/reverseengineering/</loc>
+    <lastmod>2022-07-23T09:20:30+09:00</lastmod>
+  </url><url>
+    <loc>https://bugtype.github.io/tags/</loc>
+    <lastmod>2022-07-23T09:20:30+09:00</lastmod>
+  </url><url>
+    <loc>https://bugtype.github.io/post/%EB%A0%88%EA%B1%B0%EC%8B%9C%EB%A5%BC-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%A0%84%EB%9E%B5/</loc>
+    <lastmod>2022-07-23T09:20:30+09:00</lastmod>
+  </url><url>
     <loc>https://bugtype.github.io/tags/2d/</loc>
     <lastmod>2022-05-07T10:17:00+09:00</lastmod>
   </url><url>
-    <loc>https://bugtype.github.io/</loc>
-    <lastmod>2022-05-07T10:17:00+09:00</lastmod>
-  </url><url>
     <loc>https://bugtype.github.io/tags/canvas/</loc>
-    <lastmod>2022-05-07T10:17:00+09:00</lastmod>
-  </url><url>
-    <loc>https://bugtype.github.io/categories/</loc>
     <lastmod>2022-05-07T10:17:00+09:00</lastmod>
   </url><url>
     <loc>https://bugtype.github.io/tags/css/</loc>
@@ -26,19 +50,10 @@
     <loc>https://bugtype.github.io/categories/html/</loc>
     <lastmod>2022-05-07T10:17:00+09:00</lastmod>
   </url><url>
-    <loc>https://bugtype.github.io/post/</loc>
-    <lastmod>2022-05-07T10:17:00+09:00</lastmod>
-  </url><url>
-    <loc>https://bugtype.github.io/tags/</loc>
-    <lastmod>2022-05-07T10:17:00+09:00</lastmod>
-  </url><url>
     <loc>https://bugtype.github.io/tags/arc/</loc>
     <lastmod>2022-04-30T10:20:30+09:00</lastmod>
   </url><url>
     <loc>https://bugtype.github.io/post/arc/</loc>
-    <lastmod>2022-04-30T10:20:30+09:00</lastmod>
-  </url><url>
-    <loc>https://bugtype.github.io/categories/develop/</loc>
     <lastmod>2022-04-30T10:20:30+09:00</lastmod>
   </url><url>
     <loc>https://bugtype.github.io/tags/ios/</loc>
@@ -48,12 +63,6 @@
     <lastmod>2022-04-30T10:20:30+09:00</lastmod>
   </url><url>
     <loc>https://bugtype.github.io/post/n%EC%82%AC-%EB%A7%8C%ED%99%94-%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7-%EB%9A%AB%EA%B8%B0/</loc>
-    <lastmod>2018-10-01T13:20:30+09:00</lastmod>
-  </url><url>
-    <loc>https://bugtype.github.io/tags/reverseengineering/</loc>
-    <lastmod>2018-10-01T13:20:30+09:00</lastmod>
-  </url><url>
-    <loc>https://bugtype.github.io/categories/reverseengineering/</loc>
     <lastmod>2018-10-01T13:20:30+09:00</lastmod>
   </url><url>
     <loc>https://bugtype.github.io/archives/</loc>
